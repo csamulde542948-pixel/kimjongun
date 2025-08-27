@@ -1,0 +1,19 @@
+.red-text{
+    color: red;
+}
+
+.blue-text{
+    color: blue;
+}
+
+#pink-text{
+    color: pink;
+}
+
+a[draggable="true"]{
+    color: blue;
+}
+
+*{
+    text-align: center;
+}
